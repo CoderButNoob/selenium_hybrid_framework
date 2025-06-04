@@ -2,9 +2,9 @@ import pytest
 import os
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
-from orangeHRMapp.page_objects.login_page import LoginPage
-from orangeHRMapp.utilities.read_properties import ReadConfig
-from orangeHRMapp.utilities.customLogger import LogGen
+from page_objects.login_page import LoginPage
+from utilities.read_properties import ReadConfig
+from utilities.customLogger import LogGen
 
 class Test_001_login:
     base_url = ReadConfig.getApplicationUrl()
