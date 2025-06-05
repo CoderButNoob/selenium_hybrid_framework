@@ -36,7 +36,7 @@ def pytest_configure(config):
 
 
 #this is the Hook to delete/modify Environment info to HTML Report
-@pytest.mark.optionalhook
+@pytest.hookimpl(optionalhook=True)
 def pytest_metadata(metadata):
     metadata.pop("JAVA_HOME", None)
     metadata.pop("Plugins", None)

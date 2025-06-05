@@ -28,3 +28,55 @@
 06/04/2025 03:54:21 PM: INFO: ************************* Verifying Login Test **********************
 06/04/2025 03:54:23 PM: INFO: ************************* HomePage Title Test passed **********************
 06/04/2025 03:54:25 PM: INFO: ************************* Login Test passed **********************
+06/05/2025 11:35:11 AM: INFO: ************************* Test_002_DDT_login ************************
+06/05/2025 11:35:11 AM: INFO: ************************* Verifying Login DDT Test **********************
+06/05/2025 11:35:14 AM: INFO: Test Row: 2 | Username: Admin | Expected: pass
+06/05/2025 11:35:17 AM: INFO: *** Passed ***
+06/05/2025 11:35:18 AM: INFO: Test Row: 3 | Username: adm | Expected: fail
+06/05/2025 11:35:30 AM: INFO: *** Passed (login failed as expected) ***
+06/05/2025 11:35:30 AM: INFO: Test Row: 4 | Username: Admin | Expected: fail
+06/05/2025 11:35:42 AM: INFO: *** Passed (login failed as expected) ***
+06/05/2025 11:35:42 AM: INFO: Test Row: 5 | Username: Admin | Expected: fail
+06/05/2025 11:35:54 AM: INFO: *** Passed (login failed as expected) ***
+06/05/2025 11:35:54 AM: INFO: Login DDT passed ....
+06/05/2025 11:35:55 AM: INFO: ********** END of login DDT Test ************
+06/05/2025 11:35:55 AM: INFO: ************* Completed Test_002_DDT_login **************
+06/05/2025 02:51:50 PM: INFO: **************** Test_003_AddEmployee **************
+06/05/2025 02:51:55 PM: INFO: ********** Login Successful ***********
+06/05/2025 02:51:55 PM: INFO: ********** Starting Add Emp Test ***********
+06/05/2025 02:57:45 PM: INFO: **************** Test_003_AddEmployee **************
+06/05/2025 02:57:51 PM: INFO: ********** Login Successful ***********
+06/05/2025 02:57:51 PM: INFO: ********** Starting Add Emp Test ***********
+06/05/2025 02:57:54 PM: INFO: ********** Providing Emp Details ************
+06/05/2025 02:57:55 PM: INFO: ************ Saving Emp Details ************
+06/05/2025 02:57:55 PM: INFO: ************ Add Emp Validation Started ***********
+06/05/2025 03:01:26 PM: INFO: **************** Test_003_AddEmployee **************
+06/05/2025 03:01:30 PM: INFO: ********** Login Successful ***********
+06/05/2025 03:01:30 PM: INFO: ********** Starting Add Emp Test ***********
+06/05/2025 03:01:34 PM: INFO: ********** Providing Emp Details ************
+06/05/2025 03:01:35 PM: INFO: ************ Saving Emp Details ************
+06/05/2025 03:01:35 PM: INFO: ************ Add Emp Validation Started ***********
+06/05/2025 03:04:07 PM: INFO: **************** Test_003_AddEmployee **************
+06/05/2025 03:04:12 PM: INFO: ********** Login Successful ***********
+06/05/2025 03:04:12 PM: INFO: ********** Starting Add Emp Test ***********
+06/05/2025 03:04:16 PM: INFO: ********** Providing Emp Details ************
+06/05/2025 03:04:17 PM: INFO: ************ Saving Emp Details ************
+06/05/2025 03:04:17 PM: INFO: ************ Add Emp Validation Started ***********
+06/05/2025 03:04:17 PM: INFO: ******** Add Customer Test Passed **********
+06/05/2025 03:04:18 PM: INFO: ******** Ending Test_003_AddEmployee *********
+06/05/2025 03:15:58 PM: INFO: **************** Test_003_AddEmployee **************
+06/05/2025 03:16:02 PM: INFO: ********** Login Successful ***********
+06/05/2025 03:16:02 PM: INFO: ********** Starting Add Emp Test ***********
+06/05/2025 03:16:06 PM: INFO: ********** Providing Emp Details ************
+06/05/2025 03:16:07 PM: INFO: ************ Saving Emp Details ************
+06/05/2025 03:16:07 PM: INFO: ************ Add Emp Validation Started ***********
+06/05/2025 03:16:07 PM: INFO: ******** Add Customer Test Passed **********
+06/05/2025 03:16:08 PM: INFO: ******** Ending Test_003_AddEmployee *********
+06/05/2025 03:19:51 PM: INFO: **************** Test_003_AddEmployee **************
+06/05/2025 03:19:57 PM: INFO: ********** Login Successful ***********
+06/05/2025 03:19:57 PM: INFO: ********** Starting Add Emp Test ***********
+06/05/2025 03:20:00 PM: INFO: ********** Providing Emp Details ************
+06/05/2025 03:20:02 PM: INFO: ************ Saving Emp Details ************
+06/05/2025 03:20:02 PM: INFO: ************ Add Emp Validation Started ***********
+06/05/2025 03:20:02 PM: INFO: ******** Add Customer Test Passed **********
+06/05/2025 03:20:02 PM: INFO: ******** Ending Test_003_AddEmployee *********
