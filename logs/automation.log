@@ -28,3 +28,92 @@
 06/04/2025 03:54:21 PM: INFO: ************************* Verifying Login Test **********************
 06/04/2025 03:54:23 PM: INFO: ************************* HomePage Title Test passed **********************
 06/04/2025 03:54:25 PM: INFO: ************************* Login Test passed **********************
+06/05/2025 12:20:16 AM: INFO: ************************* Test_002_DDT_login ************************
+06/05/2025 12:20:16 AM: INFO: ************************* Verifying Login DDT Test **********************
+06/05/2025 12:20:32 AM: INFO: *** Passed ***
+06/05/2025 12:20:32 AM: INFO: Login DDT passed ....
+06/05/2025 12:23:48 AM: INFO: ************************* Test_002_DDT_login ************************
+06/05/2025 12:23:48 AM: INFO: ************************* Verifying Login DDT Test **********************
+06/05/2025 12:24:05 AM: INFO: *** Passed ***
+06/05/2025 12:27:59 AM: INFO: ************************* Test_002_DDT_login ************************
+06/05/2025 12:27:59 AM: INFO: ************************* Verifying Login DDT Test **********************
+06/05/2025 12:32:38 AM: INFO: ************************* Test_002_DDT_login ************************
+06/05/2025 12:32:38 AM: INFO: ************************* Verifying Login DDT Test **********************
+06/05/2025 12:32:51 AM: INFO: *** Passed ***
+06/05/2025 12:35:46 AM: INFO: ************************* Test_002_DDT_login ************************
+06/05/2025 12:35:46 AM: INFO: ************************* Verifying Login DDT Test **********************
+06/05/2025 12:36:03 AM: INFO: *** Passed ***
+06/05/2025 12:46:59 AM: INFO: ************************* Test_002_DDT_login ************************
+06/05/2025 12:46:59 AM: INFO: ************************* Verifying Login DDT Test **********************
+06/05/2025 12:47:16 AM: INFO: *** Passed ***
+06/05/2025 12:47:25 AM: INFO: *** Failed ***
+06/05/2025 12:53:39 AM: INFO: ************************* Test_002_DDT_login ************************
+06/05/2025 12:53:39 AM: INFO: ************************* Verifying Login DDT Test **********************
+06/05/2025 12:53:53 AM: INFO: *** Passed ***
+06/05/2025 12:54:02 AM: INFO: *** Failed ***
+06/05/2025 10:14:19 AM: INFO: ************************* Test_002_DDT_login ************************
+06/05/2025 10:14:19 AM: INFO: ************************* Verifying Login DDT Test **********************
+06/05/2025 10:14:28 AM: INFO: *** Passed ***
+06/05/2025 10:14:37 AM: INFO: *** Failed ***
+06/05/2025 10:26:23 AM: INFO: ************************* Test_002_DDT_login ************************
+06/05/2025 10:26:23 AM: INFO: ************************* Verifying Login DDT Test **********************
+06/05/2025 10:27:04 AM: INFO: ************************* Test_002_DDT_login ************************
+06/05/2025 10:27:04 AM: INFO: ************************* Verifying Login DDT Test **********************
+06/05/2025 10:27:07 AM: INFO: Test Row: 2 | Username: Admin | Expected: pass
+06/05/2025 10:27:07 AM: ERROR: Login page did not load properly.
+06/05/2025 10:27:07 AM: INFO: Test Row: 3 | Username: admin | Expected: fail
+06/05/2025 10:27:08 AM: ERROR: Login page did not load properly.
+06/05/2025 10:27:08 AM: INFO: Test Row: 4 | Username: Admin | Expected: fail
+06/05/2025 10:27:08 AM: ERROR: Login page did not load properly.
+06/05/2025 10:27:08 AM: INFO: Login DDT failed ....
+06/05/2025 10:27:43 AM: INFO: ************************* Test_002_DDT_login ************************
+06/05/2025 10:27:43 AM: INFO: ************************* Verifying Login DDT Test **********************
+06/05/2025 10:27:45 AM: INFO: Test Row: 2 | Username: Admin | Expected: pass
+06/05/2025 10:27:46 AM: ERROR: Login page did not load properly.
+06/05/2025 10:27:46 AM: INFO: Test Row: 3 | Username: admin | Expected: fail
+06/05/2025 10:27:47 AM: ERROR: Login page did not load properly.
+06/05/2025 10:27:47 AM: INFO: Test Row: 4 | Username: Admin | Expected: fail
+06/05/2025 10:27:47 AM: ERROR: Login page did not load properly.
+06/05/2025 10:27:47 AM: INFO: Login DDT failed ....
+06/05/2025 10:28:35 AM: INFO: ************************* Test_002_DDT_login ************************
+06/05/2025 10:28:35 AM: INFO: ************************* Verifying Login DDT Test **********************
+06/05/2025 10:28:38 AM: INFO: Test Row: 2 | Username: Admin | Expected: pass
+06/05/2025 10:28:41 AM: INFO: *** Passed ***
+06/05/2025 10:28:44 AM: INFO: Test Row: 3 | Username: admin | Expected: fail
+06/05/2025 10:28:46 AM: INFO: *** Failed ***
+06/05/2025 10:28:46 AM: INFO: Test Row: 4 | Username: Admin | Expected: fail
+06/05/2025 10:29:09 AM: ERROR: Login page did not load properly.
+06/05/2025 10:29:09 AM: INFO: Login DDT failed ....
+06/05/2025 10:33:43 AM: INFO: ************************* Test_002_DDT_login ************************
+06/05/2025 10:33:43 AM: INFO: ************************* Verifying Login DDT Test **********************
+06/05/2025 10:33:46 AM: INFO: Test Row: 2 | Username: Admin | Expected: pass
+06/05/2025 10:33:49 AM: INFO: *** Passed ***
+06/05/2025 10:33:51 AM: INFO: Test Row: 3 | Username: adm | Expected: fail
+06/05/2025 10:33:53 AM: INFO: *** Failed ***
+06/05/2025 10:33:53 AM: INFO: Test Row: 4 | Username: Admin | Expected: fail
+06/05/2025 10:33:55 AM: INFO: *** Failed ***
+06/05/2025 10:33:55 AM: INFO: Login DDT failed ....
+06/05/2025 10:37:02 AM: INFO: ************************* Test_002_DDT_login ************************
+06/05/2025 10:37:02 AM: INFO: ************************* Verifying Login DDT Test **********************
+06/05/2025 10:37:04 AM: INFO: Test Row: 2 | Username: Admin | Expected: pass
+06/05/2025 10:37:07 AM: INFO: *** Passed ***
+06/05/2025 10:37:09 AM: INFO: Test Row: 3 | Username: adm | Expected: fail
+06/05/2025 10:37:11 AM: INFO: *** Failed ***
+06/05/2025 10:37:11 AM: INFO: Test Row: 4 | Username: Admin | Expected: fail
+06/05/2025 10:37:13 AM: INFO: *** Failed ***
+06/05/2025 10:37:13 AM: INFO: Test Row: 5 | Username: Admin | Expected: fail
+06/05/2025 10:37:15 AM: INFO: *** Failed ***
+06/05/2025 10:37:15 AM: INFO: Login DDT failed ....
+06/05/2025 10:42:59 AM: INFO: ************************* Test_002_DDT_login ************************
+06/05/2025 10:42:59 AM: INFO: ************************* Verifying Login DDT Test **********************
+06/05/2025 10:43:02 AM: INFO: Test Row: 2 | Username: Admin | Expected: pass
+06/05/2025 10:43:05 AM: INFO: *** Passed ***
+06/05/2025 10:43:07 AM: INFO: Test Row: 3 | Username: adm | Expected: fail
+06/05/2025 10:43:19 AM: INFO: *** Passed (login failed as expected) ***
+06/05/2025 10:43:19 AM: INFO: Test Row: 4 | Username: Admin | Expected: fail
+06/05/2025 10:43:31 AM: INFO: *** Passed (login failed as expected) ***
+06/05/2025 10:43:31 AM: INFO: Test Row: 5 | Username: Admin | Expected: fail
+06/05/2025 10:43:43 AM: INFO: *** Passed (login failed as expected) ***
+06/05/2025 10:43:43 AM: INFO: Login DDT passed ....
+06/05/2025 10:43:43 AM: INFO: ********** END of login DDT Test ************
+06/05/2025 10:43:43 AM: INFO: ************* Completed Test_002_DDT_login **************

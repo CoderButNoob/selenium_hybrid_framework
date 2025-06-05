@@ -1,7 +1,7 @@
 import pytest
 from selenium import webdriver
 
-@pytest.fixture()
+@pytest.fixture(scope="function")
 def setup(browser):
     # driver = webdriver.Chrome()
     # driver.maximize_window()
@@ -13,7 +13,11 @@ def setup(browser):
     elif browser == 'firefox':
         driver = webdriver.Firefox()
         print("Launching firefox")
-    return driver
+
+    driver.implicitly_wait(10)
+    driver.maximize_window()
+    yield driver
+    driver.quit()
 
 
 
