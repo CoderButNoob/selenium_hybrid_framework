@@ -80,3 +80,202 @@
 06/05/2025 03:20:02 PM: INFO: ************ Add Emp Validation Started ***********
 06/05/2025 03:20:02 PM: INFO: ******** Add Customer Test Passed **********
 06/05/2025 03:20:02 PM: INFO: ******** Ending Test_003_AddEmployee *********
+06/05/2025 04:58:08 PM: INFO: **************** Test_004_SearchEmployeeByName **************
+06/05/2025 04:58:16 PM: INFO: ********** Login Successful ***********
+06/05/2025 04:58:16 PM: INFO: *********** Adding New Employee ***************
+06/05/2025 04:58:55 PM: INFO: **************** Test_004_SearchEmployeeByName **************
+06/05/2025 04:58:59 PM: INFO: ********** Login Successful ***********
+06/05/2025 04:58:59 PM: INFO: *********** Adding New Employee ***************
+06/05/2025 05:04:03 PM: INFO: **************** Test_004_SearchEmployeeByName **************
+06/05/2025 05:04:07 PM: INFO: ********** Login Successful ***********
+06/05/2025 05:04:07 PM: INFO: *********** Adding New Employee ***************
+06/05/2025 05:04:14 PM: INFO: *********** Employee Added: Aniket Sonar, ID: 4401140167 ***************
+06/05/2025 05:04:14 PM: INFO: *********** Navigating to Employee List for Search ***************
+06/05/2025 05:04:14 PM: INFO: *********** Searching for Employee by Name: Aniket ***************
+06/05/2025 05:04:15 PM: ERROR: *********** Employee Search Test Failed ***************
+06/05/2025 05:04:45 PM: INFO: **************** Test_004_SearchEmployeeByName **************
+06/05/2025 05:04:49 PM: INFO: ********** Login Successful ***********
+06/05/2025 05:04:49 PM: INFO: *********** Adding New Employee ***************
+06/05/2025 05:04:54 PM: INFO: *********** Employee Added: Aniket Sonar, ID: 6118412231 ***************
+06/05/2025 05:04:54 PM: INFO: *********** Navigating to Employee List for Search ***************
+06/05/2025 05:04:54 PM: INFO: *********** Searching for Employee by Name: Aniket ***************
+06/05/2025 05:04:55 PM: ERROR: *********** Employee Search Test Failed ***************
+06/05/2025 05:06:46 PM: INFO: **************** Test_004_SearchEmployeeByName **************
+06/05/2025 05:06:49 PM: INFO: ********** Login Successful ***********
+06/05/2025 05:06:49 PM: INFO: *********** Adding New Employee ***************
+06/05/2025 05:07:57 PM: INFO: **************** Test_004_SearchEmployeeByName **************
+06/05/2025 05:08:01 PM: INFO: ********** Login Successful ***********
+06/05/2025 05:08:01 PM: INFO: *********** Adding New Employee ***************
+06/05/2025 05:08:07 PM: INFO: *********** Employee Added: Aniket Sonar, ID: 3021609258 ***************
+06/05/2025 05:08:07 PM: INFO: *********** Navigating to Employee List for Search ***************
+06/05/2025 05:08:07 PM: INFO: *********** Searching for Employee by Name: Aniket ***************
+06/05/2025 05:08:08 PM: ERROR: *********** Employee Search Test Failed ***************
+06/05/2025 05:09:29 PM: INFO: **************** Test_004_SearchEmployeeByName **************
+06/05/2025 05:09:32 PM: INFO: ********** Login Successful ***********
+06/05/2025 05:09:32 PM: INFO: *********** Adding New Employee ***************
+06/05/2025 05:09:37 PM: INFO: *********** Employee Added: Aniket Sonar, ID: 3737431589 ***************
+06/05/2025 05:09:37 PM: INFO: *********** Navigating to Employee List for Search ***************
+06/05/2025 05:09:37 PM: INFO: *********** Searching for Employee by Name: Aniket ***************
+06/05/2025 05:09:38 PM: ERROR: *********** Employee Search Test Failed ***************
+06/05/2025 05:10:37 PM: INFO: **************** Test_004_SearchEmployeeByName **************
+06/05/2025 05:10:42 PM: INFO: ********** Login Successful ***********
+06/05/2025 05:10:42 PM: INFO: *********** Adding New Employee ***************
+06/05/2025 05:10:48 PM: INFO: *********** Employee Added: Aniket Sonar, ID: 6576185304 ***************
+06/05/2025 05:10:48 PM: INFO: *********** Navigating to Employee List for Search ***************
+06/05/2025 05:10:49 PM: INFO: *********** Searching for Employee by Name: Aniket ***************
+06/05/2025 05:10:49 PM: ERROR: *********** Employee Search Test Failed ***************
+06/05/2025 05:11:08 PM: INFO: **************** Test_004_SearchEmployeeByName **************
+06/05/2025 05:11:13 PM: INFO: ********** Login Successful ***********
+06/05/2025 05:11:13 PM: INFO: *********** Adding New Employee ***************
+06/05/2025 05:11:17 PM: INFO: *********** Employee Added: Aniket Sonar, ID: 7898140 ***************
+06/05/2025 05:11:17 PM: INFO: *********** Navigating to Employee List for Search ***************
+06/05/2025 05:11:17 PM: INFO: *********** Searching for Employee by Name: Aniket ***************
+06/05/2025 05:11:18 PM: ERROR: *********** Employee Search Test Failed ***************
+06/05/2025 05:15:26 PM: INFO: **************** Test_004_SearchEmployeeByName **************
+06/05/2025 05:15:30 PM: INFO: ********** Login Successful ***********
+06/05/2025 05:15:30 PM: INFO: *********** Adding New Employee ***************
+06/05/2025 05:15:35 PM: INFO: *********** Employee Added: Aniket Sonar, ID: 1439850 ***************
+06/05/2025 05:15:35 PM: INFO: *********** Navigating to Employee List for Search ***************
+06/05/2025 05:15:36 PM: INFO: *********** Searching for Employee by Name: Aniket ***************
+06/05/2025 05:15:37 PM: ERROR: *********** Employee Search Test Failed ***************
+06/05/2025 05:16:35 PM: INFO: **************** Test_004_SearchEmployeeByName **************
+06/05/2025 05:16:39 PM: INFO: ********** Login Successful ***********
+06/05/2025 05:16:39 PM: INFO: *********** Adding New Employee ***************
+06/05/2025 05:16:43 PM: INFO: *********** Employee Added: Aniket Sonar, ID: 3024 ***************
+06/05/2025 05:16:43 PM: INFO: *********** Navigating to Employee List for Search ***************
+06/05/2025 05:16:44 PM: INFO: *********** Searching for Employee by Name: Aniket ***************
+06/05/2025 05:16:44 PM: ERROR: *********** Employee Search Test Failed ***************
+06/05/2025 05:22:47 PM: INFO: **************** Test_004_SearchEmployeeByName **************
+06/05/2025 05:22:50 PM: INFO: ********** Login Successful ***********
+06/05/2025 05:22:50 PM: INFO: *********** Adding New Employee ***************
+06/05/2025 05:22:55 PM: INFO: *********** Employee Added: Aniket Sonar, ID: 8812 ***************
+06/05/2025 05:22:55 PM: INFO: *********** Navigating to Employee List for Search ***************
+06/05/2025 05:22:55 PM: INFO: *********** Searching for Employee by Name: Aniket ***************
+06/05/2025 05:22:56 PM: ERROR: *********** Employee Search Test Failed ***************
+06/05/2025 05:23:44 PM: INFO: **************** Test_004_SearchEmployeeByName **************
+06/05/2025 05:23:48 PM: INFO: ********** Login Successful ***********
+06/05/2025 05:23:48 PM: INFO: *********** Adding New Employee ***************
+06/05/2025 05:23:55 PM: INFO: *********** Employee Added: Aniket Sonar, ID: 2592 ***************
+06/05/2025 05:23:55 PM: INFO: *********** Navigating to Employee List for Search ***************
+06/05/2025 05:23:55 PM: INFO: *********** Searching for Employee by Name: Aniket ***************
+06/05/2025 05:35:10 PM: INFO: **************** Test_004_SearchEmployeeByName **************
+06/05/2025 05:35:13 PM: INFO: ********** Login Successful ***********
+06/05/2025 05:35:13 PM: INFO: *********** Adding New Employee ***************
+06/05/2025 05:35:18 PM: INFO: *********** Employee Added: Aniket Sonar, ID: 9119 ***************
+06/05/2025 05:35:18 PM: INFO: *********** Navigating to Employee List for Search ***************
+06/05/2025 05:35:18 PM: INFO: *********** Searching for Employee by Name: Aniket ***************
+06/05/2025 05:39:08 PM: INFO: **************** Test_004_SearchEmployeeByName **************
+06/05/2025 05:39:12 PM: INFO: ********** Login Successful ***********
+06/05/2025 05:39:12 PM: INFO: *********** Adding New Employee ***************
+06/05/2025 05:39:16 PM: INFO: *********** Employee Added: Aniket Sonar, ID: 7319 ***************
+06/05/2025 05:39:16 PM: INFO: *********** Navigating to Employee List for Search ***************
+06/05/2025 05:39:17 PM: INFO: *********** Searching for Employee by Name: Aniket ***************
+06/05/2025 05:39:18 PM: ERROR: *********** Employee Search Test Failed ***************
+06/05/2025 05:41:35 PM: INFO: **************** Test_004_SearchEmployeeByName **************
+06/05/2025 05:41:41 PM: INFO: ********** Login Successful ***********
+06/05/2025 05:41:41 PM: INFO: *********** Adding New Employee ***************
+06/05/2025 05:41:45 PM: INFO: *********** Employee Added: Aniket Sonar, ID: 2848 ***************
+06/05/2025 05:41:45 PM: INFO: *********** Navigating to Employee List for Search ***************
+06/05/2025 05:41:46 PM: INFO: *********** Searching for Employee by Name: Aniket ***************
+06/05/2025 05:41:47 PM: ERROR: *********** Employee Search Test Failed ***************
+06/05/2025 05:47:00 PM: INFO: **************** Test_004_SearchEmployeeByName **************
+06/05/2025 05:47:03 PM: INFO: ********** Login Successful ***********
+06/05/2025 05:47:03 PM: INFO: *********** Adding New Employee ***************
+06/05/2025 05:47:07 PM: INFO: *********** Employee Added: Aniket Sonar, ID: 1625 ***************
+06/05/2025 05:47:07 PM: INFO: *********** Navigating to Employee List for Search ***************
+06/05/2025 05:47:08 PM: INFO: *********** Searching for Employee by Name: Aniket ***************
+06/05/2025 05:47:09 PM: INFO: *********** Employee Search Test Passed ***************
+06/05/2025 05:47:09 PM: INFO: ******** Ending Test_004_SearchEmployeeByName *********
+06/05/2025 05:47:31 PM: INFO: **************** Test_004_SearchEmployeeByName **************
+06/05/2025 05:47:34 PM: INFO: ********** Login Successful ***********
+06/05/2025 05:47:34 PM: INFO: *********** Adding New Employee ***************
+06/05/2025 05:47:38 PM: INFO: *********** Employee Added: Shriya Sonar, ID: 3879 ***************
+06/05/2025 05:47:38 PM: INFO: *********** Navigating to Employee List for Search ***************
+06/05/2025 05:47:39 PM: INFO: *********** Searching for Employee by Name: Shriya ***************
+06/05/2025 05:47:40 PM: ERROR: *********** Employee Search Test Failed ***************
+06/05/2025 05:48:11 PM: INFO: **************** Test_004_SearchEmployeeByName **************
+06/05/2025 05:48:14 PM: INFO: ********** Login Successful ***********
+06/05/2025 05:48:14 PM: INFO: *********** Adding New Employee ***************
+06/05/2025 05:48:18 PM: INFO: *********** Employee Added: Aniket Sonar, ID: 9526 ***************
+06/05/2025 05:48:18 PM: INFO: *********** Navigating to Employee List for Search ***************
+06/05/2025 05:48:19 PM: INFO: *********** Searching for Employee by Name: Aniket ***************
+06/05/2025 05:48:20 PM: INFO: *********** Employee Search Test Passed ***************
+06/05/2025 05:48:20 PM: INFO: ******** Ending Test_004_SearchEmployeeByName *********
+06/05/2025 05:50:39 PM: INFO: **************** Test_004_SearchEmployeeByName **************
+06/05/2025 05:50:43 PM: INFO: ********** Login Successful ***********
+06/05/2025 05:50:43 PM: INFO: *********** Adding New Employee ***************
+06/05/2025 05:50:47 PM: INFO: *********** Employee Added: Shriya Sonar, ID: 6561 ***************
+06/05/2025 05:50:47 PM: INFO: *********** Navigating to Employee List for Search ***************
+06/05/2025 05:50:48 PM: INFO: *********** Searching for Employee by Name: Shriya ***************
+06/05/2025 05:50:49 PM: ERROR: *********** Employee Search Test Failed ***************
+06/05/2025 05:52:16 PM: INFO: **************** Test_004_SearchEmployeeByName **************
+06/05/2025 05:52:19 PM: INFO: ********** Login Successful ***********
+06/05/2025 05:52:19 PM: INFO: *********** Adding New Employee ***************
+06/05/2025 05:52:23 PM: INFO: *********** Employee Added: Shriya Sonar, ID: 5888 ***************
+06/05/2025 05:52:23 PM: INFO: *********** Navigating to Employee List for Search ***************
+06/05/2025 05:52:24 PM: INFO: *********** Searching for Employee by Name: Shriya ***************
+06/05/2025 05:54:16 PM: INFO: **************** Test_004_SearchEmployeeByName **************
+06/05/2025 05:54:20 PM: INFO: ********** Login Successful ***********
+06/05/2025 05:54:20 PM: INFO: *********** Adding New Employee ***************
+06/05/2025 05:54:34 PM: INFO: *********** Employee Added: Shriya Sonar, ID: 5075 ***************
+06/05/2025 05:54:34 PM: INFO: *********** Navigating to Employee List for Search ***************
+06/05/2025 05:54:35 PM: INFO: *********** Searching for Employee by Name: Shriya ***************
+06/05/2025 05:54:46 PM: ERROR: *********** Employee Search Test Failed ***************
+06/05/2025 05:54:59 PM: INFO: **************** Test_004_SearchEmployeeByName **************
+06/05/2025 05:55:02 PM: INFO: ********** Login Successful ***********
+06/05/2025 05:55:02 PM: INFO: *********** Adding New Employee ***************
+06/05/2025 05:55:16 PM: INFO: *********** Employee Added: Shriya Sonar, ID: 6380 ***************
+06/05/2025 05:55:16 PM: INFO: *********** Navigating to Employee List for Search ***************
+06/05/2025 05:55:17 PM: INFO: *********** Searching for Employee by Name: Shriya ***************
+06/05/2025 05:55:27 PM: INFO: *********** Employee Search Test Passed ***************
+06/05/2025 05:55:27 PM: INFO: ******** Ending Test_004_SearchEmployeeByName *********
+06/06/2025 12:54:56 AM: INFO: **************** Test_004_SearchEmployeeByName **************
+06/06/2025 12:55:06 AM: INFO: ********** Login Successful ***********
+06/06/2025 12:55:06 AM: INFO: *********** Adding New Employee ***************
+06/06/2025 12:55:23 AM: INFO: *********** Employee Added: Shriya Sonar, ID: 3747 ***************
+06/06/2025 12:55:23 AM: INFO: *********** Navigating to Employee List for Search ***************
+06/06/2025 12:55:23 AM: INFO: *********** Searching for Employee by Name: Shriya ***************
+06/06/2025 12:55:34 AM: INFO: *********** Employee Search Test Passed ***************
+06/06/2025 12:55:34 AM: INFO: ******** Ending Test_004_SearchEmployeeByName *********
+06/06/2025 12:56:45 AM: INFO: **************** Test_004_SearchEmployeeByName **************
+06/06/2025 12:56:52 AM: INFO: ********** Login Successful ***********
+06/06/2025 12:56:52 AM: INFO: *********** Adding New Employee ***************
+06/06/2025 12:57:08 AM: INFO: *********** Employee Added: Shriya Sonar, ID: 8638 ***************
+06/06/2025 12:57:08 AM: INFO: *********** Navigating to Employee List for Search ***************
+06/06/2025 12:57:08 AM: INFO: *********** Searching for Employee by Name: Shriya ***************
+06/06/2025 12:57:19 AM: INFO: *********** Employee Search Test Passed ***************
+06/06/2025 12:57:19 AM: INFO: ******** Ending Test_004_SearchEmployeeByName *********
+06/06/2025 01:52:58 PM: INFO: **************** Test_004_SearchEmployeeByName **************
+06/06/2025 01:53:11 PM: INFO: ********** Login Successful ***********
+06/06/2025 01:53:11 PM: INFO: *********** Adding New Employee ***************
+06/06/2025 01:53:25 PM: INFO: *********** Employee Added: Shriya Sonar, ID: 2997 ***************
+06/06/2025 01:53:25 PM: INFO: *********** Navigating to Employee List for Search ***************
+06/06/2025 01:53:26 PM: INFO: *********** Searching for Employee by Name: Shriya ***************
+06/06/2025 01:53:37 PM: INFO: *********** Employee Search Test Passed ***************
+06/06/2025 01:53:37 PM: INFO: ******** Ending Test_004_SearchEmployeeByName *********
+06/06/2025 02:15:26 PM: INFO: **************** Test_005_SearchEmployeeById **************
+06/06/2025 02:15:39 PM: INFO: ********** Login Successful ***********
+06/06/2025 02:15:39 PM: INFO: *********** Adding New Employee ***************
+06/06/2025 02:15:54 PM: INFO: *********** Employee Added: Shriya Sonar, ID: 9609 ***************
+06/06/2025 02:15:54 PM: INFO: *********** Navigating to Employee List for Search ***************
+06/06/2025 02:15:54 PM: INFO: *********** Searching for Employee by Name: 9609 ***************
+06/06/2025 02:17:06 PM: INFO: **************** Test_005_SearchEmployeeById **************
+06/06/2025 02:17:20 PM: INFO: ********** Login Successful ***********
+06/06/2025 02:17:20 PM: INFO: *********** Adding New Employee ***************
+06/06/2025 02:17:36 PM: INFO: *********** Employee Added: Shriya Sonar, ID: 2625 ***************
+06/06/2025 02:17:36 PM: INFO: *********** Navigating to Employee List for Search ***************
+06/06/2025 02:17:36 PM: INFO: *********** Searching for Employee by Name: 2625 ***************
+06/06/2025 02:24:55 PM: INFO: **************** Test_005_SearchEmployeeById **************
+06/06/2025 02:25:07 PM: INFO: ********** Login Successful ***********
+06/06/2025 02:25:07 PM: INFO: *********** Adding New Employee ***************
+06/06/2025 02:25:22 PM: INFO: *********** Employee Added: Shriya Sonar, ID: 1772 ***************
+06/06/2025 02:25:22 PM: INFO: *********** Navigating to Employee List for Search ***************
+06/06/2025 02:25:23 PM: INFO: *********** Searching for Employee by Name: 1772 ***************
+06/06/2025 02:27:59 PM: INFO: **************** Test_005_SearchEmployeeById **************
+06/06/2025 02:28:08 PM: INFO: ********** Login Successful ***********
+06/06/2025 02:28:08 PM: INFO: *********** Adding New Employee ***************
+06/06/2025 02:28:24 PM: INFO: *********** Employee Added: Shriya Sonar, ID: 5820 ***************
+06/06/2025 02:28:24 PM: INFO: *********** Navigating to Employee List for Search ***************
+06/06/2025 02:28:25 PM: INFO: *********** Searching for Employee by Name: 5820 ***************
+06/06/2025 02:28:35 PM: INFO: *********** Employee Search Test Passed ***************
+06/06/2025 02:28:35 PM: INFO: ******** Ending Test_005_SearchEmployeeById *********

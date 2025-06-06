@@ -6,6 +6,7 @@ from selenium.webdriver.support.ui import Select
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
+from selenium.webdriver.common.keys import Keys
 
 class addEmployee:
     pim_xpath = '//*[@id="app"]/div[1]/div[1]/aside/nav/div[2]/ul/li[2]/a'
@@ -40,8 +41,15 @@ class addEmployee:
         last_name = self.wait.until(EC.visibility_of_element_located((By.XPATH,self.add_lastname_xpath)))
         last_name.send_keys(l_name)
 
+    # def addEmpID(self,e_id):
+    #     emp_id = self.wait.until(EC.visibility_of_element_located((By.XPATH,self.add_empID_xpath)))
+    #     emp_id.clear()
+    #     emp_id.send_keys(e_id)
+
     def addEmpID(self,e_id):
-        emp_id = self.wait.until(EC.visibility_of_element_located((By.XPATH,self.add_empID_xpath)))
+        emp_id = self.wait.until(EC.visibility_of_element_located((By.XPATH, self.add_empID_xpath)))
+        emp_id.send_keys(Keys.CONTROL + "a")  # Select all
+        emp_id.send_keys(Keys.BACKSPACE)  # Delete
         emp_id.send_keys(e_id)
 
     def click_saveButton(self):
