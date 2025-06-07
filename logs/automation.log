@@ -452,3 +452,45 @@
 06/07/2025 12:34:38 PM: INFO: *********** Searching for Employee by Name: Shriya ***************
 06/07/2025 12:34:49 PM: INFO: *********** Employee Search Test Passed ***************
 06/07/2025 12:34:49 PM: INFO: ******** Ending Test_004_SearchEmployeeByName *********
+06/07/2025 04:23:05 PM: INFO: **************** Test_003_AddEmployee **************
+06/07/2025 04:23:13 PM: INFO: ********** Login Successful ***********
+06/07/2025 04:23:13 PM: INFO: ********** Starting Add Emp Test ***********
+06/07/2025 04:23:18 PM: INFO: ********** Providing Emp Details ************
+06/07/2025 04:23:19 PM: INFO: ************ Saving Emp Details ************
+06/07/2025 04:23:19 PM: INFO: ************ Add Emp Validation Started ***********
+06/07/2025 04:23:19 PM: INFO: ******** Add Customer Test Passed **********
+06/07/2025 04:23:19 PM: INFO: ******** Ending Test_003_AddEmployee *********
+06/07/2025 04:23:24 PM: INFO: ************************* Test_001_login **********************
+06/07/2025 04:23:24 PM: INFO: ************************* Verify Homepage Title **********************
+06/07/2025 04:23:33 PM: INFO: ************************* HomePage Title Test passed **********************
+06/07/2025 04:23:37 PM: INFO: ************************* Verifying Login Test **********************
+06/07/2025 04:23:48 PM: INFO: ************************* Login Test passed **********************
+06/07/2025 04:23:52 PM: INFO: ************************* Test_002_DDT_login ************************
+06/07/2025 04:23:52 PM: INFO: ************************* Verifying Login DDT Test **********************
+06/07/2025 04:23:53 PM: INFO: Test Row: 2 | Username: Admin | Expected: pass
+06/07/2025 04:24:07 PM: INFO: *** Passed ***
+06/07/2025 04:24:09 PM: INFO: Test Row: 3 | Username: adm | Expected: fail
+06/07/2025 04:24:21 PM: INFO: *** Passed (login failed as expected) ***
+06/07/2025 04:24:21 PM: INFO: Test Row: 4 | Username: Admin | Expected: fail
+06/07/2025 04:24:34 PM: INFO: *** Passed (login failed as expected) ***
+06/07/2025 04:24:34 PM: INFO: Test Row: 5 | Username: Admin | Expected: fail
+06/07/2025 04:24:45 PM: INFO: *** Passed (login failed as expected) ***
+06/07/2025 04:24:45 PM: INFO: Login DDT passed ....
+06/07/2025 04:24:45 PM: INFO: ********** END of login DDT Test ************
+06/07/2025 04:24:45 PM: INFO: ************* Completed Test_002_DDT_login **************
+06/07/2025 04:24:49 PM: INFO: **************** Test_005_SearchEmployeeById **************
+06/07/2025 04:24:59 PM: INFO: ********** Login Successful ***********
+06/07/2025 04:24:59 PM: INFO: *********** Adding New Employee ***************
+06/07/2025 04:25:15 PM: INFO: *********** Employee Added: Shriya Sonar, ID: 6037 ***************
+06/07/2025 04:25:15 PM: INFO: *********** Navigating to Employee List for Search ***************
+06/07/2025 04:25:16 PM: INFO: *********** Searching for Employee by Name: 6037 ***************
+06/07/2025 04:25:27 PM: INFO: *********** Employee Search Test Passed ***************
+06/07/2025 04:25:27 PM: INFO: ******** Ending Test_005_SearchEmployeeById *********
+06/07/2025 04:25:31 PM: INFO: **************** Test_004_SearchEmployeeByName **************
+06/07/2025 04:25:44 PM: INFO: ********** Login Successful ***********
+06/07/2025 04:25:44 PM: INFO: *********** Adding New Employee ***************
+06/07/2025 04:25:59 PM: INFO: *********** Employee Added: Shriya Sonar, ID: 5425 ***************
+06/07/2025 04:25:59 PM: INFO: *********** Navigating to Employee List for Search ***************
+06/07/2025 04:25:59 PM: INFO: *********** Searching for Employee by Name: Shriya ***************
+06/07/2025 04:26:10 PM: INFO: *********** Employee Search Test Passed ***************
+06/07/2025 04:26:10 PM: INFO: ******** Ending Test_004_SearchEmployeeByName *********
