@@ -279,3 +279,21 @@
 06/06/2025 02:28:25 PM: INFO: *********** Searching for Employee by Name: 5820 ***************
 06/06/2025 02:28:35 PM: INFO: *********** Employee Search Test Passed ***************
 06/06/2025 02:28:35 PM: INFO: ******** Ending Test_005_SearchEmployeeById *********
+06/06/2025 04:23:16 PM: INFO: **************** Test_005_SearchEmployeeById **************
+06/06/2025 04:23:26 PM: INFO: ********** Login Successful ***********
+06/06/2025 04:23:26 PM: INFO: *********** Adding New Employee ***************
+06/06/2025 04:23:40 PM: INFO: *********** Employee Added: Shriya Sonar, ID: 7119 ***************
+06/06/2025 04:23:40 PM: INFO: *********** Navigating to Employee List for Search ***************
+06/06/2025 04:23:41 PM: INFO: *********** Searching for Employee by Name: 7119 ***************
+06/06/2025 04:23:51 PM: INFO: *********** Employee Search Test Passed ***************
+06/06/2025 04:23:51 PM: INFO: ******** Ending Test_005_SearchEmployeeById *********
+06/06/2025 04:24:16 PM: INFO: **************** Test_003_AddEmployee **************
+06/06/2025 04:24:27 PM: INFO: ********** Login Successful ***********
+06/06/2025 04:24:27 PM: INFO: ********** Starting Add Emp Test ***********
+06/06/2025 04:24:33 PM: INFO: ********** Providing Emp Details ************
+06/06/2025 04:24:34 PM: INFO: ************ Saving Emp Details ************
+06/06/2025 04:24:34 PM: INFO: ************ Add Emp Validation Started ***********
+06/06/2025 04:24:34 PM: INFO: ******** Add Customer Test Passed **********
+06/06/2025 04:24:35 PM: INFO: ******** Ending Test_003_AddEmployee *********
+06/06/2025 04:24:39 PM: INFO: ************************* Verifying Login Test **********************
+06/06/2025 04:24:51 PM: INFO: ************************* Login Test passed **********************

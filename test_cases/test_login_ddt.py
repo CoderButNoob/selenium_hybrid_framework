@@ -137,6 +137,8 @@ class Test_002_DDT_login:
     path = os.path.join(os.path.dirname(__file__), '..', 'test_data', 'login_data.xlsx')
     logger = LogGen.loggen()
 
+
+    @pytest.mark.regression
     def test_login_ddt(self, setup):
         self.logger.info("************************* Test_002_DDT_login ************************")
         self.logger.info("************************* Verifying Login DDT Test **********************")

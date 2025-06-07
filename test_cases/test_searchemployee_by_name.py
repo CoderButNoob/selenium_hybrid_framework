@@ -159,6 +159,8 @@ class Test_004_SearchEmployeeByName:
 
     logger = LogGen.loggen()
 
+
+    @pytest.mark.regression
     def test_seacrhEmployeeByName(self, setup):
         self.logger.info("**************** Test_004_SearchEmployeeByName **************")
         self.driver = setup

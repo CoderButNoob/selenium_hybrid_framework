@@ -20,6 +20,8 @@ class Test_005_SearchEmployeeByID:
 
     logger = LogGen.loggen()
 
+
+    @pytest.mark.regression
     def test_seacrhEmployeeById(self, setup):
         self.logger.info("**************** Test_005_SearchEmployeeById **************")
         self.driver = setup

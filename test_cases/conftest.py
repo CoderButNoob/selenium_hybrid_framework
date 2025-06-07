@@ -1,5 +1,11 @@
 import pytest
 from selenium import webdriver
+import sys
+import os
+
+# Add the project root (orangeHRM) to sys.path
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
+
 
 @pytest.fixture(scope="function")
 def setup(browser):

@@ -16,6 +16,8 @@ class Test_003_AddEmployee:
 
     logger = LogGen.loggen()
 
+    @pytest.mark.sanity
+    @pytest.mark.regression
     def test_addEmployee(self,setup):
         self.logger.info("**************** Test_003_AddEmployee **************")
         self.driver=setup
