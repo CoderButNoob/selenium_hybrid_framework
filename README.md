@@ -22,7 +22,7 @@ This project is a **Hybrid Test Automation Framework** built using **Selenium We
 selenium_hybrid_framework/
 │
 ├── configurations/            # Configuration files (if any)
-│
+│   └── config.ini
 ├── logs/                      # Logs
 │   └── automation.log
 │
